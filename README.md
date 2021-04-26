@@ -14,7 +14,7 @@ The button handler procedure could be improved to provide better control. Curren
 
 I previously had no experience with TI's microcontrollers and development toolchain (I had only used Atmel and ST microcontrollers). I think I will take a closer look at TI's catalog, as it was an enjoyable experience working with such a powerful chip.
 
-#*What skills from this project will be particularly transferable to other projects and/or course work?*
+# *What skills from this project will be particularly transferable to other projects and/or course work?*
 
 I think the experience of debugging real hardware will be very valuable in my continuing CS degree. Its one thing to make an application and see it integrating with an OS, but the experience of seeing the direct physical result of code you wrote is on a whole other level.
 
