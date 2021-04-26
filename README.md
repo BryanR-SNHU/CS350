@@ -1,0 +1,1 @@
+Two projects demonstrating embedded systems proficiency.
